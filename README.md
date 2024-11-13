@@ -13,3 +13,7 @@
    ```
    $ streamlit run streamlit_app.py
    ```
+
+
+   credit :
+   smartwatches price datashet by Kiattisak Rattanaporn (https://www.kaggle.com/rkiattisak) from https://www.kaggle.com/datasets/rkiattisak/smart-watch-prices
